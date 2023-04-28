@@ -1,3 +1,5 @@
 const container = document.getElementById('container');
 
-const innerBox = document.getElementById('innerBox');
+const innerbox = document.getElementById('innerbox');
+
+console.log('container', container);
